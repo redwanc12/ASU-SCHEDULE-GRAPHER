@@ -10,6 +10,9 @@ Graphs a standard schedule from Arizon State University into an organized Excel 
 
 # Technologies
 xlwt and xlrd to read and write to excel files.
+
 xlutils to perform more operations with excels.
+
 PyPDF2 to read data from PDF files.
+
 re for parsing information with regular expressions (RegEx)
