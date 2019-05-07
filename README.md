@@ -1,5 +1,5 @@
 # ASU-SCHEDULE-GRAPHER
-Graphs a standard schedule from Arizon State University into an organized Excel sheet. Originally created in 2018.
+Graphs a standard schedule from Arizona State University into an organized Excel sheet. Originally created in 2018.
 
 # How to use
 1) Download your ASU schedule from the official "My ASU - Schedule" page.
